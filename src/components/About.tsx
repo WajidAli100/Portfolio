@@ -19,7 +19,7 @@ const About = () => {
                         <Image src={book} alt="book" className='w-auto h-[130px]' />
                         <div className='flex flex-col mt-4'>
                             <h2 className='text-2xl font-bold text-white/80'>Education</h2>
-                            <p className='text-lg text-white/70 mt-2'>I hold a Master's of Science degree in Computer Science, which has provided me with a strong foundation in various areas of technology, including web development,software development, data analysis, and artificial intelligence</p>
+                            <p className='text-lg text-white/70 mt-2'>I hold a Masters of Science degree in Computer Science, which has provided me with a strong foundation in various areas of technology, including web development,software development, data analysis, and artificial intelligence</p>
                         </div>
                     </div>
                 </div>
